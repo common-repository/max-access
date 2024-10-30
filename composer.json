@@ -1,0 +1,15 @@
+{
+    "name": "developer/maxaccess",
+    "authors": [
+        {
+            "name": "nolangrowthdyn",
+            "email": "81184129+nolangrowthdyn@users.noreply.github.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { 
+            "MaxAccess\\": "src/" 
+        }
+    },
+    "require": {}
+}
